@@ -1,4 +1,4 @@
---[[ QUATUN PREMIUM | OBFUSCATED UI LIB ]]
+--[[ QUATUN PREMIUM | OBFUSCATED UI LIBr ]]
 
 local _0xA,_0xB,_0xC,_0xD,_0xE =
     string.char,
